@@ -1,0 +1,5 @@
+python demo.py  --config config/vox-256.yaml --driving_video ./driving_video/obama_crop.mp4 --source_image ./source_image/image.jpg --checkpoint ./fom_checkpoints/vox-cpk.pth.tar --relative --adapt_scale
+
+python crop-video.py --inp ./driving_video/irishman.mp4
+
+Pillow                             6.2.0

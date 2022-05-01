@@ -1,0 +1,10 @@
+/.vscode
+__pycache__
+/venv
+*.mp4
+fom_checkpoints
+driving_video
+source_image
+gui
+data
+.idea
